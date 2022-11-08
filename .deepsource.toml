@@ -1,9 +1,9 @@
 version = 1
 
 [[analyzers]]
-name = "sql"
+name = "csharp"
 enabled = true
 
 [[analyzers]]
-name = "php"
+name = "sql"
 enabled = true
